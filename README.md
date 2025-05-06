@@ -1,16 +1,23 @@
-## Hi there 👋
+# Aloha 👋
 
-<!--
-**pictureuna/pictureuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## プロフィール 🌴
 
-Here are some ideas to get you started:
+こんにちは！私はUSAMI KARENと申します。現在休暇中です。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Bunny Labで働いています
+- 🕒 タイムゾーン: UTC +09:00 (日本)
+- 📅 GitHub登録日: 2021年03月06日
+- 👥 フォロワー: 10 | フォロー中: 50
+- 🌟 スター: 83
+
+## 関心分野
+
+時系列予測や機械学習に興味があります。特に[TimeMixer](https://github.com/kwuking/TimeMixer)のような最新の研究に注目しています。
+
+## リポジトリ
+
+現在、公開リポジトリは1つのみです。新しいプロジェクトに取り組み中です。詳細は近日公開予定です。
+
+## 連絡先
+
+休暇中のため、返信が遅れる場合があります。ご了承ください。
